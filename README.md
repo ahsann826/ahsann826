@@ -1,10 +1,9 @@
 I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
-<img width="1200" height="839" alt="6ef4408b59fee7b0aa31fee1a76347cd" src="https://github.com/user-attachments/assets/f7937c8b-891a-44fd-a0fd-4b6e04cdf2ad" />
-
 ## Socials:
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
 
+<img width="1200" height="839" alt="6ef4408b59fee7b0aa31fee1a76347cd" src="https://github.com/user-attachments/assets/f7937c8b-891a-44fd-a0fd-4b6e04cdf2ad" />
 
 </a>
 
