@@ -1,8 +1,4 @@
-# About Me:
-<br>I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
-
-
-
+I like to learn, build, and teach. <br> I can speak 6 different languages.<br>I have a great interest in Machine Learning & AI. Love chess, reading, fishing, photographing, and many sports.
 
 ## Socials:
 [![X](https://img.shields.io/badge/X-%23FF0000.svg?logo=x&logoColor=white)](https://x.com/khanahsanllc)
